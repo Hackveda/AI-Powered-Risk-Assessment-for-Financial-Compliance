@@ -1,0 +1,4 @@
+Split the dataset documents
+
+split -C 90M --additional-suffix=.csv large_file.csv part_
+
